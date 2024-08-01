@@ -1,5 +1,7 @@
 # KPI-Excel-Generator
-Tool used to collect metric data from AppDynamics and organize it within an Excel document, in addition to computing new KPI's. Awaiting Approval to share code.
+Tool used to collect metric data from AppDynamics and organize it within an Excel document, in addition to computing new KPI's. 
+
+**Awaiting approval to publish project code**
 
 **Background Information:**  
 AppDynamics contains a wealth of information on the performance of [redacted] systems. It records data on the various transactions that take place, including general performance, response time, call stack information, etc. Of the many components that make up Cubic's systems, we are most interested in [redacted], as it directly relates to the customer.
